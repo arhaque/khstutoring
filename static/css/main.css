@@ -27,9 +27,6 @@ header h1.logo:hover {
   text-decoration: none;
 }
 
-
-
-
 div.home {
   padding: 10px 0 30px 0;
   background-color: #E6E6FA;
@@ -80,7 +77,7 @@ h3 {
 
 .menu {
   float: right;
-  margin-top: 8px;
+  margin-top: 9px;
 }
 
 .menu li {
@@ -92,7 +89,7 @@ h3 {
 }
 
 .menu li a {
-  color: rgb(26, 23, 23);
+  color: rgb(255, 255, 255);
   text-decoration: none;
 }
 /*background*/
