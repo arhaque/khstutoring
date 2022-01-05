@@ -1,16 +1,13 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Verdana", Verdana, Arial, sans-serif;
   color: rgb(63, 63, 63);
 }
 
-/*
- * Formatting the header area
- */
 
 header {
-  background-color: #DFB887;
+  background-color: #555;
   height: 45px;
   width: 100%;
   opacity: .8;
@@ -26,7 +23,7 @@ header h1.logo {
 }
 
 header h1.logo:hover {
-  color: #fff;
+  color: rgb(201, 186, 186);
   text-decoration: none;
 }
 
